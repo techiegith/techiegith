@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shruti Kumari</h1>
 <h3 align="center">Turning Ideas into Impact: Innovating the Future with Software Development.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/6afbd433ec557450440ee1d6416be8ec61bf9b26e8290fa9c40d072a27a9f4ea/68747470733a2f2f696d67732e7365617263682e62726176652e636f6d2f4e4b5a4a6465583155734b4e6f374b4438757534486743776f61484a67354772506c6d387a4c5044346d4d2f72733a6669743a3834343a3232353a312f673a63652f6148523063484d364c793930633255792f4c6d31744c6d4a70626d6375626d56302f4c33526f50326c6b5055394a5543347a2f4d475a315547777a65446c4c646b31432f4d6c705a567a42724e323933534746462f53795a776157513951584270">
+<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/736x/30/a0/37/30a03741515fe8103384dc219cf51cef.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techiegith&label=Profile%20views&color=0e75b6&style=flat" alt="techiegith" /> </p>
 
